@@ -7,7 +7,7 @@ public:
     string name; 
     int age;     
 
-    // Constructor
+
     Person(string nm, int ag) {
         name = nm; 
         age = ag;  
